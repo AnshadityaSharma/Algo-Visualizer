@@ -63,9 +63,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 <br>
 
-## Highlights
 
-<img style="margin-top: 20px;margin-bottom:20px" src="./Github/Gif/Gif-Full-Tutorial.gif"/>
 
 ## Words about this project
 
@@ -82,7 +80,6 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 Time Complexity is n^2 because here i used Two itarations .
 
 </p>
-  <img src='./Github/Images/BubbleSort.png'>
 
 </div>
 
@@ -95,7 +92,6 @@ Time Complexity is n^2 because here i used Two itarations .
 **Time Complexity is O(n log n)**
 
 </p>
-  <img src='./Github/Images/QuickSort.png'>
 
 </div>
 
@@ -107,7 +103,6 @@ Time Complexity is n^2 because here i used Two itarations .
    We can add or remove element from the front, the end or from anywhere in the list. <strong style="color:red "> But in This project we can remove or add from last in list</strong>
 
 </p>
-  <img src='./Github/Images/SinglyLinkedList.png'>
 
 </div>
 
@@ -118,7 +113,6 @@ Time Complexity is n^2 because here i used Two itarations .
    DFS is searching technique in a Graph . DFS means Depth first search. In this technique search will happen in depth of tree if seaching node is found then search is complete but id searching node is not found . it will backtrack .
 
 </p>
-  <img src='./Github/Images/Dfs.png'>
 
 </div>
 
@@ -129,7 +123,6 @@ Time Complexity is n^2 because here i used Two itarations .
  Dijkstra is very popular algorithms. It found the sortest path between two nodes . It works in weight grarph. To find the sortest path we can use adjecency matrix or adjecency list . Here i use adjecency List .
 
 </p>
-  <img src='./Github/Images/Dijkstra.png'>
 
 </div>
 
@@ -140,43 +133,3 @@ Time Complexity is n^2 because here i used Two itarations .
 <li style="color: #fb005f; font-weight:500"><strong> If you have low end PC .Then before opening this web app close all tab (Recomanded) </strong></li>
 </ul>
 
-### PROJECT URL :
-
-Deployment Server :- <span> netlify </span>
-
-<a href="https://algo-visualizer-wasim.netlify.app">Click me to See </a>
-
-<!-- ### DEVELOPER
-
-<table>
-<tbody>
-<tr>
-<td align='center'>
-<img height="130" width="140" src="./Github/Developer/Image/Dev_pro_pic.jpeg" />       <br/>
-<a href="https://github.com/wasim15185"> <Strong>Wasim Akram Biswas </Strong></a>
-</td>
-</tr>
-</tbody>
-</table> -->
-
-## MIT License
-
-        Copyright (c) 2021 Wasim Akram Biswas
-
-        Permission is hereby granted, free of charge, to any person obtaining a copy
-        of this software and associated documentation files (the "Software"), to deal
-        in the Software without restriction, including without limitation the rights
-        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-        copies of the Software, and to permit persons to whom the Software is
-        furnished to do so, subject to the following conditions:
-
-        The above copyright notice and this permission notice shall be included in all
-        copies or substantial portions of the Software.
-
-        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-        SOFTWARE.
