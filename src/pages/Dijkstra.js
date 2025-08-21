@@ -9,7 +9,6 @@ import { Select } from "antd";
 import SearchIcon from "@material-ui/icons/Search";
 import PlayCircleFilledWhiteIcon from "@material-ui/icons/PlayCircleFilledWhite";
 import { ClearOutlined } from "@ant-design/icons";
-import demo from "./../videos/DijkstraVideo-No-Edit.mp4";
 //This Only for snackbar
 import { useSnackbar } from "notistack";
 import Zoom from "@material-ui/core/Zoom";
@@ -63,11 +62,8 @@ function Dijkstra() {
 		<div
 		// style={{ position: "absolute" }}
 		>
-			<VideoModal
-				isVisible={isModalVisible}
-				setVisible={setModalVisible}
-				videoUrl={demo}
-			/>
+			
+
 			<Canvas reload={reload} setArr={setArr} setReload={setReload} />
 
 			<div className="navigation-area">
